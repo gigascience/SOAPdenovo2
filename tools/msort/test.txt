@@ -1,0 +1,5 @@
+chrX:+:loci100/4
+chrX:+:loci110/2
+chrX:+:loci110/3
+chr1:+:loci110/3
+chr1:-:loci110/3
